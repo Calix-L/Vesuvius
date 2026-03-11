@@ -1,4 +1,8 @@
-# Vesuvius Surface Detection（本地训练/推理脚本）
+# Vesuvius Surface Detection - Kaggle Silver Medal Solution 🏆
+
+<p align="center">
+  <img src="kaggle-silver-medal.png" alt="Kaggle Silver Medal - Vesuvius Challenge" width="500" />
+</p>
 
 本仓库把两条常见 baseline 流程脚本化，便于在本地（含 Windows）训练与生成 `submission.zip`：
 
