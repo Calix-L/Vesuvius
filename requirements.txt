@@ -1,0 +1,8 @@
+numpy
+pandas
+tifffile
+pytorch-lightning
+monai
+nnunetv2
+scipy
+scikit-image
